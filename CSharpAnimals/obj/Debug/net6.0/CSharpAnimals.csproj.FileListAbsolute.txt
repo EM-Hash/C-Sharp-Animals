@@ -1,0 +1,15 @@
+C:\Users\addde\RiderProjects\C-Sharp-Animals\CSharpAnimals\bin\Debug\net6.0\CSharpAnimals.exe
+C:\Users\addde\RiderProjects\C-Sharp-Animals\CSharpAnimals\bin\Debug\net6.0\CSharpAnimals.deps.json
+C:\Users\addde\RiderProjects\C-Sharp-Animals\CSharpAnimals\bin\Debug\net6.0\CSharpAnimals.runtimeconfig.json
+C:\Users\addde\RiderProjects\C-Sharp-Animals\CSharpAnimals\bin\Debug\net6.0\CSharpAnimals.dll
+C:\Users\addde\RiderProjects\C-Sharp-Animals\CSharpAnimals\bin\Debug\net6.0\CSharpAnimals.pdb
+C:\Users\addde\RiderProjects\C-Sharp-Animals\CSharpAnimals\obj\Debug\net6.0\CSharpAnimals.csproj.AssemblyReference.cache
+C:\Users\addde\RiderProjects\C-Sharp-Animals\CSharpAnimals\obj\Debug\net6.0\CSharpAnimals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\addde\RiderProjects\C-Sharp-Animals\CSharpAnimals\obj\Debug\net6.0\CSharpAnimals.AssemblyInfoInputs.cache
+C:\Users\addde\RiderProjects\C-Sharp-Animals\CSharpAnimals\obj\Debug\net6.0\CSharpAnimals.AssemblyInfo.cs
+C:\Users\addde\RiderProjects\C-Sharp-Animals\CSharpAnimals\obj\Debug\net6.0\CSharpAnimals.csproj.CoreCompileInputs.cache
+C:\Users\addde\RiderProjects\C-Sharp-Animals\CSharpAnimals\obj\Debug\net6.0\CSharpAnimals.dll
+C:\Users\addde\RiderProjects\C-Sharp-Animals\CSharpAnimals\obj\Debug\net6.0\refint\CSharpAnimals.dll
+C:\Users\addde\RiderProjects\C-Sharp-Animals\CSharpAnimals\obj\Debug\net6.0\CSharpAnimals.pdb
+C:\Users\addde\RiderProjects\C-Sharp-Animals\CSharpAnimals\obj\Debug\net6.0\CSharpAnimals.genruntimeconfig.cache
+C:\Users\addde\RiderProjects\C-Sharp-Animals\CSharpAnimals\obj\Debug\net6.0\ref\CSharpAnimals.dll
